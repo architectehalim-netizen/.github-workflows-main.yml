@@ -1,0 +1,8 @@
+{
+  "appId": "com.tekya.chantier",
+  "appName": "TEKYACHANTIER",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
